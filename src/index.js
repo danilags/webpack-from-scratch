@@ -1,0 +1,1 @@
+console.log("hello Daniel Agus Sidabutar Webpack");
